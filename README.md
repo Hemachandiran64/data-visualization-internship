@@ -1,29 +1,29 @@
-# data-visualization-internship
-Beginner Data Visualization Task using Matplotlib and Seaborn
-# data-visualization-internship
+# ShadowFox Data Science Internship
 
-Beginner Data Visualization Task using Matplotlib and Seaborn
+This repository contains my completed tasks for the ShadowFox Data Science Internship.
 
-## Intermediate Task 2 – X Sentiment Analysis
+## Tasks Completed
 
-### Objective
-Analyze X (Twitter) data using Natural Language Processing, statistical
-analysis, and data visualization techniques.
+### 1. Beginner Task
+Data Visualization using Python, Pandas, Matplotlib and Seaborn.
 
-### Work Completed
-- Data loading and exploration
-- Data cleaning and text preprocessing
-- Stopword removal
-- Sentiment classification
-- Positive, Negative, and Neutral sentiment analysis
-- Word-frequency analysis
-- Data visualization
-- Findings and conclusion
+### 2. Intermediate Task
+Sentiment Analysis using Python.
 
-### Technologies Used
+### 3. Advanced Task
+Advanced Data Analysis using the Superstore Sales Dataset.
+
+## Tools Used
+
 - Python
 - Google Colab
 - Pandas
 - NumPy
 - Matplotlib
-- NLTK
+- Seaborn
+
+## Repository Contents
+
+- Beginner_Data_visualization_Task.ipynb
+- Intermediate_Task_2_X_Sentiment_Analysis.ipynb
+- ShadowFox_Advanced_Data_Analysis.ipynb
